@@ -26,6 +26,7 @@ What the JS file will do is take the **ID** of the `<ul>` and look at where the 
 ### CSS
 The only thing you need to do is make an `active` class which will be applied to the appropriate `a` tag when you scroll to the section you link to in the `href`.
 > You will need to add the `active` class to the first link in your navbar e.g. **Home**
+
 Last thing, if you don't have your navbar on `position: fixed` you will not see the magic.
 ### JS
 You will need to open up the JS file and on **line 11** insert the **ID** of the `<ul>`. 
