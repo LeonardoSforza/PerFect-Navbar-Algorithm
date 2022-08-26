@@ -6,7 +6,10 @@ The PerFect-Navbar-Algorithm is a simple javascript file you add to your HTML be
 ## Install
 There are two ways:
 1. CLI Install
-`npm i perfect-navbar-algorithm`
+`npm i perfect-navbar-algorithm`.
+
+Then go to the `node_modules\perfect-navbar-algorithm` and take the file **PerFect-Navbar-Algorithm.js**
+
 2. Clone the Github repository and take the **PerFect-Navbar-Algorithm.js**
 
 ## SetUp
