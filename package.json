@@ -1,0 +1,25 @@
+{
+  "name": "perfect-navbar-algorithm",
+  "version": "1.0.0",
+  "description": "Apply an “active” CSS class to your navigation links when you scroll down to that section. ",
+  "main": "PerFect-Navbar-Algorithm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoSforza/PerFect-Navbar-Algorithm.git"
+  },
+  "keywords": [
+    "Navbar",
+    "CSS",
+    "JS",
+    "Algorithm"
+  ],
+  "author": "Leonardo Sforza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoSforza/PerFect-Navbar-Algorithm/issues"
+  },
+  "homepage": "https://github.com/LeonardoSforza/PerFect-Navbar-Algorithm#readme"
+}
